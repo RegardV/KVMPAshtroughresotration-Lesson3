@@ -57,3 +57,13 @@ For this project, your role is designated as:
 - Scripts or commands used to blacklist and unblacklist the NVIDIA driver.
 - Logs or outputs from the virtual machine to verify successful passthrough.
 
+## Note of files in this repository 
+## Project Files Description
+
+This section includes the configuration files and log files specifically related to the GPU and audio passthrough setup for this KVM project. The complete system logs exceeded 1 GB, so I’ve included only the filtered logs relevant to passthrough events. Here’s what you can expect in the uploaded files in my repository:
+
+- **`ai-vm` Config File**: The KVM configuration file used to set up the virtual machine, including settings optimized for NVIDIA GPU and audio passthrough.
+- **Passthrough Logs**: Filtered log files capturing events and outputs related to the passthrough process, verifying successful GPU and audio functionality within the virtual machine.
+
+**Note**: These files are machine-specific, meaning the configurations and logs are tailored to the hardware and setup of the Ubuntu 20.04 host used in this project. Results may vary depending on your system’s hardware and software environment.
+
