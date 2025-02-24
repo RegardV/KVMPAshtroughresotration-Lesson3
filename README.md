@@ -1,6 +1,13 @@
 # KVM Passtrough resoration-Lesson3
 This is not a repository its is a final report of a KVM wind down with Nvidia video and audio passtrhough
 
+## UPDATED Post
+The Great Passthrough Debacle of Feb '25
+So, here's the deal—I'm an AI DevOps engineer, and my goal was to get GPU passthrough working on a KVM machine running Ubuntu 24.04. I had it set up, and it was purring like a kitten (see the earlier steps in this repo). But this morning? Disaster. Booted it up, and bam—blank screen. Nothing. Nada.
+We went through the usual suspects—checked the configs, poked at the logs, cursed at the screen. Everything seemed in order, but it just wouldn’t play nice. Eventually, I started digging into missing kernel modules, and that’s when I threw in the towel. Ain’t nobody got time to chase ghosts in the machine when deadlines are looming.
+The teardown? Total fail. Wasted too much time troubleshooting, so I said screw it—wiped the slate clean and reinstalled Ubuntu 24.04 from scratch. Faster than trying to resurrect whatever gremlin killed it. Maybe next time I’ll figure out what went sideways, but for now, I’m pressed for time and moving on. Lesson learned: sometimes a fresh start beats a stubborn fight.
+
+## The original project post
 # KVM with NVIDIA GPU and Audio Passthrough Project
 
 ## Overview
