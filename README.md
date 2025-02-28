@@ -7,6 +7,9 @@ So, here's the deal—I'm an AI DevOps engineer, and my goal was to get GPU pass
 We went through the usual suspects—checked the configs, poked at the logs, cursed at the screen. Everything seemed in order, but it just wouldn’t play nice. Eventually, I started digging into missing kernel modules, and that’s when I threw in the towel. Ain’t nobody got time to chase ghosts in the machine when deadlines are looming.
 The teardown? Total fail. Wasted too much time troubleshooting, so I said screw it—wiped the slate clean and reinstalled Ubuntu 24.04 from scratch. Faster than trying to resurrect whatever gremlin killed it. Maybe next time I’ll figure out what went sideways, but for now, I’m pressed for time and moving on. Lesson learned: sometimes a fresh start beats a stubborn fight.
 
+# To Self. 
+It's noticable, the sudden slump to learn just because you did not achieve success. Stop moping and junp into the next session. !!
+
 ## The original project post
 # KVM with NVIDIA GPU and Audio Passthrough Project
 
